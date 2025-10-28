@@ -89,10 +89,6 @@ def perimeter(a, b, c):
 >Example perimeter(4, 5, 6) -> 15
 
 # Changelog
-[fixed rectangle.py](https://github.com/thbldprncee/geometric_lib/commit/a7ab35a5426c8a5b58ab820b1c8b1d47a36d60f7)
-[added triangle.py](https://github.com/thbldprncee/geometric_lib/commit/d8b83f2abb4f5fb09cd770425237070552fe488)
-[added rectangle.py](https://github.com/thbldprncee/geometric_lib/commit/0d79b66a2ad2ffb23b4a20089d6b29d26ff2461e)
-# Changelog
 - [Fixed rectangle.py](https://github.com/thbldprncee/geometric_lib/commit/a7ab35a5426c8a5b58ab820b1c8b1d47a36d60f7)
 - [Added triangle.py](https://github.com/thbldprncee/geometric_lib/commit/d8b83f2abb4f5fb09cd770425237070552fe488)
 - [Added rectangle.py](https://github.com/thbldprncee/geometric_lib/commit/0d79b66a2ad2ffb23b4a20089d6b29d26ff2461e)
