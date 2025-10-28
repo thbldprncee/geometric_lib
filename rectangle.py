@@ -1,30 +1,27 @@
 def area(a, b):
-    return a * b
-
-"""
-    Вычисляет площадь прямоугольника.
+    """
+    Calculate the area of a rectangle.
 
     Args:
-        a (float): Длина первой стороны прямоугольника. Должна быть положительным числом.
-        b (float): Длина второй стороны прямоугольника. Должна быть положительным числом.
+        a (float): Length of the first side of the rectangle. Must be a positive number.
+        b (float): Length of the second side of the rectangle. Must be a positive number.
 
     Returns:
-        float: Площадь прямоугольника по формуле S = a * b
-"""
+        float: Area of the rectangle calculated using the formula S = a * b
+    """
+    return a * b
 
 
 def perimeter(a, b):
+    """
+    Calculate the perimeter of a rectangle.
+
+    Args:
+        a (float): Length of the first side of the rectangle. Must be a positive number.
+        b (float): Length of the second side of the rectangle. Must be a positive number.
+
+    Returns:
+        float: Perimeter of the rectangle calculated using the formula P = 2 * (a + b)
+    """
     return 2 * (a + b)
 
-"""
-   Вычисляет периметр прямоугольника.
-
-   Args:
-       a (float): Длина первой стороны прямоугольника. Должна быть положительным числом.
-       b (float): Длина второй стороны прямоугольника. Должна быть положительным числом.
-
-   Returns:
-       float: Периметр прямоугольника по формуле P = 2 * (a + b)
-"""
-
-print(perimeter(5, 6))
