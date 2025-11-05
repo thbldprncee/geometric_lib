@@ -3,6 +3,5 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/geometric_lib" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/geometric_lib/geometric_lib" vcs="Git" />
   </component>
 </project>
